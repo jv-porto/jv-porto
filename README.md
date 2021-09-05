@@ -7,7 +7,7 @@
 </p> -->
 
 <div>
- <p>- 🌱 I’m currently a <strong>Data Science and Artificial Intelligence</strong> at Pontifical Catholic University of São Paulo</p>
+ <p>- 🌱 I’m currently a <strong>Data Science and Artificial Intelligence</strong> undergraduate at Pontifical Catholic University of São Paulo</p>
  <p>- 📫 You can reach me at <a href="mailto:joaovictor.porto@hotmail.com"><strong>joaovictor.porto@hotmail.com</strong></a></p>
 </div>
 <br>
