@@ -8,8 +8,7 @@
 
 <div>
   <p>- 🌱 I’m an undergraduate at Pontifical Catholic University of São Paulo (PUC-SP)</p>
-  <p>- 💻 I'm interested in Technology, specially Data Science and Machine Learning</p>
-  <p>- 📊 I'm currently working on some personal projects :)</p>
+  <p>- 💻 I'm interested in Technology, specially Machine Learning</p>
 </div>
 
 <div>
@@ -22,17 +21,18 @@
 <div align="center">
   <img align="center" alt="VSCode" height="30" width="40" src="./files/vscode.svg">
   <img align="center" alt="Python" height="30" width="40" src="./files/python.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="./files/jupyter.svg">
+  <img align="center" alt="Django" height="30" width="40" src="./files/django.svg">
+  
   <img align="center" alt="NumPy" height="30" width="40" src="./files/numpy.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="./files/jupyter.svg">
   <!----- img align="center" alt="TensorFlow" height="30" width="40" src="./files/tensorflow.svg" ----->
-  <!----- img align="center" alt="Django" height="30" width="40" src="./files/django.svg" ----->
   
   <img align="center" alt="HTML5" height="30" width="40" src="./files/html5.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="./files/css3.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="./files/javascript.svg">
   
-  <img align="center" alt="Google" height="30" width="40" src="./files/google.svg">
-  <img align="center" alt="GoogleCloud" height="30" width="40" src="./files/googlecloud.svg">
+  <!----- <img align="center" alt="Google" height="30" width="40" src="./files/google.svg"> ----->
+  <!----- <img align="center" alt="GoogleCloud" height="30" width="40" src="./files/googlecloud.svg"> ----->
   <img align="center" alt="AWS" height="30" width="40" src="./files/amazonwebservices.svg">
   
   <!----- img align="center" alt="MySQL" height="30" width="40" src="./files/mysql.svg" ----->
