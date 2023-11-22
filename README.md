@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./files/party-nyan.gif" width="45px"> Hey, I'm João Victor Porto!</h1>
+<h1 align="center"><img src="./files/party-nyan.gif" width="45px"> Hi, I'm João Victor Porto!</h1>
 
 <!----- <p align="center">
   <i>“There is a reason why all things are as they are.”</i>
@@ -8,7 +8,7 @@
 
 <div>
   <p>- 🌱 I’m an undergraduate at Pontifical Catholic University of São Paulo (PUC-SP)</p>
-  <p>- 💻 I'm interested in Technology, specially Machine Learning</p>
+  <p>- 💻 I'm interested in Data Science, Machine Learning and Software Development</p>
 </div>
 
 <div>
