@@ -10,6 +10,7 @@
   <p>- 🌱 I’m an undergraduate at Pontifical Catholic University of São Paulo (PUC-SP)</p>
   <p>- 💻 I'm interested in Data Science, Machine Learning and Software Development</p>
   <p>- 🤖 These are some of the stacks I'm most familiar with: Python, Jupyter Notebook, Pandas, Scikit-Learn, Matplotlib, Seaborn, FastAPI, Dart, Flutter, Docker</p>
+  <p>- 🛠️ Check one of my projects: <a href="https://github.com/zuri-app">Zuri</a></p>
 </div>
 
 <div>
