@@ -18,22 +18,22 @@
   <a href="https://www.github.com/jv-porto" target="_blank"><img src="./files/github.svg" height=30 width=40 target="_blank"></a>
 </div>
 <br>
-<div align="center">
-  <img align="center" alt="VSCode" height="30" width="40" src="./files/vscode.svg">
-  <img align="center" alt="Python" height="30" width="40" src="./files/python.svg">
-  <img align="center" alt="Django" height="30" width="40" src="./files/django.svg">
+<!-- <div align="center"> -->
+<!--   <img align="center" alt="VSCode" height="30" width="40" src="./files/vscode.svg"> -->
+<!--   <img align="center" alt="Python" height="30" width="40" src="./files/python.svg"> -->
+<!--   <img align="center" alt="Django" height="30" width="40" src="./files/django.svg"> -->
   
-  <img align="center" alt="NumPy" height="30" width="40" src="./files/numpy.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="./files/jupyter.svg">
+  <!-- <img align="center" alt="NumPy" height="30" width="40" src="./files/numpy.svg"> -->
+<!--   <img align="center" alt="Jupyter" height="30" width="40" src="./files/jupyter.svg"> -->
   <!----- img align="center" alt="TensorFlow" height="30" width="40" src="./files/tensorflow.svg" ----->
   
-  <img align="center" alt="HTML5" height="30" width="40" src="./files/html5.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="./files/css3.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="./files/javascript.svg">
+  <!-- <img align="center" alt="HTML5" height="30" width="40" src="./files/html5.svg"> -->
+  <!-- <img align="center" alt="CSS3" height="30" width="40" src="./files/css3.svg"> -->
+  <!-- <img align="center" alt="Javascript" height="30" width="40" src="./files/javascript.svg"> -->
   
   <!----- <img align="center" alt="Google" height="30" width="40" src="./files/google.svg"> ----->
   <!----- <img align="center" alt="GoogleCloud" height="30" width="40" src="./files/googlecloud.svg"> ----->
-  <img align="center" alt="AWS" height="30" width="40" src="./files/amazonwebservices.svg">
+  <!-- <img align="center" alt="AWS" height="30" width="40" src="./files/amazonwebservices.svg"> -->
   
   <!----- img align="center" alt="MySQL" height="30" width="40" src="./files/mysql.svg" ----->
 </div>
